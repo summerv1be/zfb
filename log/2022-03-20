@@ -1,0 +1,53 @@
+2022-03-20 18:43:01.709573
+输入定位签到模式
+多人签到模式20044205,20044209
+当前IP：13.89.34.125,
+
+ 美国Microsoft公司
+
+系统时间：2022-03-20 18:43:07
+UTC时间：2022-03-20 18:43:02
+北京时间：2022-03-21 02:43:01
+北京时间与系统时间误差：7:59:53.421178
+2022-03-20 18:43:07.578883:20044205签到开始
+cookie文件存在
+cookie文件加载成功
+NAME陈俊楠
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832608，28.659381，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.84412614153423,"lat":28.661942690224497},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"丰和南大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832646&lat=28.659377&sfby=1
+NAME陈俊楠
+定位 115.832646，28.659377，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.84411195864256,"lat":28.661884871072464},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"丰和南大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832632&lat=28.659319&sfby=1
+签到成功
+2022-03-20 18:43:41.443054:20044205签到结束
+2022-03-20 18:43:41.614051:20044209签到开始
+cookie文件存在
+cookie文件加载成功
+NAME胡腾勇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.832632，28.659319，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.84419914306035,"lat":28.66194309969297},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"丰和南大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832719&lat=28.659379&sfby=1
+NAME胡腾勇
+定位 115.832719，28.659379，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.8442141051384,"lat":28.661881809986367},"formatted_address":"江西省南昌市红谷滩区丰和南大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"丰和南大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.832734&lat=28.659318&sfby=1
+签到成功
+2022-03-20 18:44:02.134371:20044209签到结束
+2人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2318771872391430144}
+2022-03-20 18:44:07.447309程序结束
+######################################################################
+
+
+
+
